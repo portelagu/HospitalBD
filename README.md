@@ -32,7 +32,7 @@ A segunda parte é um refinamento do diagrama, além de inicializar as tabelas n
 <div> <img src="/images/Parte2/receita.png" alt="Imagem da tabela da receita"> </div>
 
 ## Tabela de Internação
-<div> <img src="/images/Parte2/internação.png" alt="Imagem da tabela de internação"> </div>
+<div> <img src="/images/Parte2/internacao.png" alt="Imagem da tabela de internação"> </div>
 
 ## Tabela de Quarto
 <div> <img src="/images/Parte2/quarto.png" alt="Imagem da tabela de quarto"> </div>
