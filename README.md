@@ -43,5 +43,42 @@ A segunda parte é um refinamento do diagrama, além de inicializar as tabelas n
 ## Tabela de Enfermeiro
 <div> <img src="/images/Parte2/enfermeiro.png" alt="Imagem da tabela de enfermeiro"> </div>
 
+# Parte 3 - O Prisioneiro dos Dados
+
+Nessa parte houve um refinamento no diagrama e em todas as tabelas criadas. Além das mudanças nas tabelas já existentes, também foram criadas novas entidades de relação. A partir desse nível, dados ja começaram a ser implementados para realizar os devidos testes e validar sua viabilidade. Vale ressaltar, que, muitas mudanças ainda serão feitas.
+
+## Tabela de Médicos
+<div> <img src="/images/Parte3/tabelaMedicos.png" alt="Imagem da tabela de medicos"> </div>
+
+## Tabela de Especialidades
+<div> <img src="/images/Parte3/tabelaEspecialidades.png" alt="Imagem da tabela de especialidades"> </div>
+
+## Tabela de Pacientes
+<div> <img src="/images/Parte3/tabelaPacientes.png" alt="Imagem da tabela de pacientes"> </div>
+
+## Tabela de Consultas
+<div> <img src="/images/Parte3/tabelaConsultas.png" alt="Imagem da tabela de consultas"> </div>
+
+## Tabela de Receitas
+<div> <img src="/images/Parte3/tabelaReceitas.png" alt="Imagem da tabela de receitas"> </div>
+
+## Tabela de Convênios
+<div> <img src="/images/Parte3/tabelaConvenio.png" alt="Imagem da tabela de convênio"> </div>
+
+## Entidade de Relacionamento entre Médico e Especialidade
+<div> <img src="/images/Parte3/relacionamentoMedicoEspecialidade.png" alt="Imagem da Entidade de relacionamento entre médico e especialidade"> </div>
+
+## Entidade de Relacionamento entre Enfermeiro e Internação
+<div> <img src="/images/Parte3/relacionamentoEnfermeiroInternacao.png" alt="Imagem da Entidade de relacionamento entre enfermeiro e internação"> </div>
+
+## Tabela de Enfermeiros
+<div> <img src="/images/Parte3/tabelaEnfermeiro.png" alt="Imagem da tabela de enfermeiros"> </div>
+
+## Tabela de Quartos
+<div> <img src="/images/Parte3/tabelaQuarto.png" alt="Imagem da tabela de quartos"> </div>
+
+## Tabela de Tipos de Quartos
+<div> <img src="/images/Parte3/tabelaTipoQuarto.png" alt="Imagem da tabela de tipos de quartos"> </div>
+
 #
->Parte 3 em construção...
+>Parte 4 em construção...
