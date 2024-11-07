@@ -1,6 +1,6 @@
 # Banco de dados de um hospital
 
-Este é um projeto do PROPROFISSÃO, proposto pelo professor, com o objetivo de elaborar uma estrutura de banco de dados adequada para um hospital fictício. Para verificar o que deve ser feito em cada parte do exercício, acesse a pasta INSTRUÇÕES.
+Este é um projeto do PROPROFISSÃO, proposto pelo professor, com o objetivo de elaborar uma estrutura de banco de dados adequada para um hospital fictício. Para verificar o que deve ser feito em cada parte do exercício, acesse a pasta 'INSTRUÇÕES'.
 
 # Parte 1 - O Hospital Fundamental
 <div> <img src="/images/Parte1/parte1.png" alt="Imagem do DER da parte 1">
